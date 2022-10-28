@@ -1,0 +1,7 @@
+<body>
+    <h1>Whitespace</h1>
+     <div>
+        <p> <!--code written here--> </p>
+    </div>  
+</body>
+    
